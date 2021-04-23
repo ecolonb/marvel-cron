@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.format.enable": true,
+  // "eslint.enable": true,
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "none"> Exist charByComic:
+  // "eslint.validate": [
+  //   { "language": "javascript", "autoFix": true },
+  //   { "language": "typescript", "autoFix": true }
+  // ]
+}
